@@ -1,0 +1,19 @@
+{
+  "name": "lsm",
+  "version": "1.0.0",
+  "description": "Least squares method and vant hoff equation for neural network",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "least-squares": "^0.0.2",
+    "linear-least-squares": "^1.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
